@@ -14,3 +14,4 @@ Materiales
 La idea es Investigar y Construir una camara multiespectral para usarla en el sector Agricola/Ganadero/Forestal.
 
    
+    
